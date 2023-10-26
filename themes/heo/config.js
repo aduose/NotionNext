@@ -6,15 +6,15 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到宠物家', url: 'https://www.chongwujia.com' },
-    { title: '养宠知识库', url: 'https://zhi.chongwujia.com' }
+    { title: '关于养宠必须知道的基本知识！', url: 'https://zhi.chongwujia.com' }
   ],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '养宠知识',
   HERO_TITLE_2: '宠物健康',
   HERO_TITLE_3: 'CHONGWUJIA.COM',
-  HERO_TITLE_4: '宠物用品',
-  HERO_TITLE_5: '宠物家，您身边的宠物管家。',
+  HERO_TITLE_4: '宠物家',
+  HERO_TITLE_5: '您身边的宠物管家。',
   HERO_TITLE_LINK: 'https://www.chongwujia.com',
 
   // 英雄区显示三个置顶分类
